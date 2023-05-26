@@ -17,3 +17,6 @@ Tecnologias utilizadas:
 </ul>
   
 Dificuldades/erros encontrados durante o desenvolvimento do projeto:
+
+Link para acessar o arquivo:
+<a href="https://script.google.com/macros/s/AKfycbyWKmBzJSQ71guob_iwQoGG79K1qNuqgouJM-XP3xmsu7M4tAB88K5wFPynRvfE73oh/exec">Formulario de compras</a>
