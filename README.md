@@ -6,7 +6,7 @@ Portifolio para documentar o processo de aprendizado da disciplina de programaç
 Arquivo (s):
 <ul>
   <li>Formulario de compra</li>
-<ul>
+</ul>
 
 Descrição: Pagina Web para descrever o produto comprado e sua quantidade
   
