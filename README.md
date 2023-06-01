@@ -5,7 +5,7 @@ Portifolio para documentar o processo de aprendizado da disciplina de programaç
 
 Arquivo (s):
 <ul>
-  <li>Formulario de compra</li>
+  <li>Formulariodecompra</li>
 </ul>
 
 Descrição: Pagina Web para descrever o produto comprado e sua quantidade
@@ -15,8 +15,24 @@ Tecnologias utilizadas:
 <ul>
   <li>JavaScript</li>
 </ul>
-  
-Dificuldades/erros encontrados durante o desenvolvimento do projeto:
 
 Link para acessar o arquivo:
 <a href="https://script.google.com/macros/s/AKfycbyWKmBzJSQ71guob_iwQoGG79K1qNuqgouJM-XP3xmsu7M4tAB88K5wFPynRvfE73oh/exec">Formulario de compras</a>
+
+<h1>Projeto: Calcular Média</h1>
+
+Arquivo (s):
+<ul>
+  <li>CalcularMedia</li>
+</ul>
+
+Descrição: Pagina Web para calcular a media ponderada do aluno
+  
+Tecnologias utilizadas:
+  
+<ul>
+  <li>JavaScript</li>
+</ul>
+
+Link para acessar o arquivo:
+<a href="https://script.google.com/macros/s/AKfycbzOBm_NG0ew7j8i-hJfZqdiZf202eWW_nZ1MOcrxuN3pxROcN9_dfc7QQyOa4oh8-4e/exec">Calcular Media</a>
