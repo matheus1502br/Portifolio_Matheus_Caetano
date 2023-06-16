@@ -72,3 +72,21 @@ Tecnologias utilizadas:
 
 Link para acessar o arquivo:
 <a href="https://script.google.com/macros/s/AKfycbzmVcMtNbPmLBkiF4ZLyzC7m3xmWvoSpTGeGCqJyyiFHMooeFN-M-CnYW9kmJOfPjZJ/exec">Formulario de Mensagem</a>
+
+<h1>Projeto: Planilha de Livro</h1>
+
+Arquivo (s):
+<ul>
+  <li>Planilha</li>
+</ul>
+
+Descrição: Pagina web onde compartilhamos nomes e dados de livros para uma planilha
+  
+Tecnologias utilizadas:
+  
+<ul>
+  <li>JavaScript</li>
+</ul>
+
+Link para acessar o arquivo:
+<a href="https://script.google.com/macros/s/AKfycbzsnxap5M0i2OXxKAwamLLXCmI2isFHTB93gGzAGfAtZ2dgK5gFwM3kMbhX3mycIN-p/exec">Planilha de Livro</a>
