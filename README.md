@@ -37,7 +37,7 @@ Tecnologias utilizadas:
 Link para acessar o arquivo:
 <a href="https://script.google.com/macros/s/AKfycbzOBm_NG0ew7j8i-hJfZqdiZf202eWW_nZ1MOcrxuN3pxROcN9_dfc7QQyOa4oh8-4e/exec">Calcular Media</a>
 
-<h1>Projeto: Calcular Média</h1>
+<h1>Projeto: Login </h1>
 
 Arquivo (s):
 <ul>
