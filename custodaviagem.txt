@@ -1,0 +1,50 @@
+codigo Hmtl: 
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+  </head>
+  <body>
+    <label for="distancia">Distancia percorriada:</label>
+      <input type="number" id="distancia" name="distancia" required>
+
+      <label for="consumo">Consumo de KM/Litro:</label>
+      <input type="number" id="consumo" name="consumo" required>
+
+      <label for="gasolina">Preço da gasolina:</label> 
+      <input type="number" id="gasolina" name="gasolina" required>
+
+      <button onclick="calcularViagem()">Calcular viagem</button> </br>
+
+      <div>
+          <p>Resultado:</p>
+          <p id="resultado"></p>
+      </div>
+
+      <script>
+      function calcularViagem() {
+        var distancia = parseFloat(document.getElementById('distancia').value);
+        var consumo = parseFloat(document.getElementById('consumo').value);
+        var gasolina = parseFloat(document.getElementById('gasolina').value);
+
+        google.script.run.withSuccessHandler(viagem).calcular(distancia, consumo, gasolina);
+      }
+
+      function viagem(valorFinal) {
+        var resultado = document.getElementById('resultado');
+        resultado.innerHTML = valorFinal;
+      }
+    </script>
+  </body>
+</html>
+
+Codigo.gs:
+
+function doGet() {
+    return HtmlService.createHtmlOutputFromFile('calculadora');
+}
+
+function calcular(distancia, consumo, gasolina) {
+  var valorfinal = (distancia / consumo) * gasolina;
+  return valorfinal.toFixed(2);
+}
